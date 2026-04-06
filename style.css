@@ -206,11 +206,11 @@ body{
 
 /* Percentage Classes */
 .pct-50{width:50%;}
-.pct-60{width:60%;}
-.pct-65{width:65%;}
-.pct-70{width:70%;}
-.pct-80{width:80%;}
-.pct-85{width:85%;}
+.pct-90{width:90%;}
+.pct-90{width:90%;}
+.pct-90{width:90%;}
+.pct-90{width:90%;}
+.pct-95{width:95%;}
 
 /* Contact */
 .contact-info div{

@@ -1,43 +1,83 @@
+# 🚀 Vansh Baranwal - Portfolio Website
 
-# 🌟 My Portfolio Website
-
-This is my personal portfolio website made using **HTML and CSS**.  
-It shows who I am, what skills I have, and how someone can contact me.
+Welcome to my personal portfolio website!
+This project showcases my **skills, projects, and contact information** in a clean and modern UI.
 
 ---
 
-## 🔥 What This Website Includes
+## 🌟 About the Portfolio
 
-- Home section with my introduction  
-- About Me section  
-- Skills section  
-- Contact details  
-- Responsive and clean design  
+This portfolio is designed to represent who I am as a developer. It highlights my journey, technical skills, and interest in **Artificial Intelligence, Machine Learning, and Web Development**.
+
+---
+
+## 🔥 Features
+
+* 👋 **Hero Section** with introduction
+* 🧑‍💻 **About Me** section
+* 🛠️ **Skills Section** with animated progress bars
+* 📄 **Resume Download Option**
+* 📞 **Contact Section**
+* 📱 Fully **Responsive Design**
 
 ---
 
 ## 🛠️ Technologies Used
 
-- HTML  
-- CSS  
-- Google Fonts  
+* **HTML5**
+* **CSS3**
+* **Google Fonts (Poppins)**
 
 ---
 
-## 📂 How to Open the Project
+## 📊 Skills Highlight
 
-1. Download or clone this project.  
-2. Open the folder on your computer.  
-3. Double-click **index.html** to open it in your browser.
+* 💡 Programming: C, Python
+* 🌐 Web: HTML, CSS
+* 📊 Data Analysis: NumPy, Pandas
+* 🤖 Machine Learning: Basics
+
+---
+
+## 📂 How to Run Locally
+
+1. Clone the repository
+
+   ```
+   git clone https://github.com/Vansh794/portfolio.git
+   ```
+2. Open the project folder
+3. Run `index.html` in your browser
+
+---
+
+## 🌐 Live Website
+
+👉 (Add your GitHub Pages link here after deployment)
 
 ---
 
 ## 📞 Contact Me
 
-- **Email:** vanshbaranwal834@gmail.com  
-- **Phone:** 6393451980  
-- **LinkedIn:** https://www.linkedin.com/in/vansh-baranwal-788118381
+* 📧 Email: [vanshbaranwal834@gmail.com](mailto:vanshbaranwal834@gmail.com)
+* 📱 Phone: 6393451980
+* 💼 LinkedIn: https://www.linkedin.com/in/vansh-baranwal-788118381
+* 🐙 GitHub: https://github.com/Vansh794
 
 ---
 
-Made with ❤️ by **Vansh**
+## ⚡ Future Improvements
+
+* Add JavaScript for interactivity
+* Add projects section with live demos
+* Improve animations and UI
+
+---
+
+## ❤️ Made By
+
+**Vansh Baranwal**
+
+---
+
+⭐ *If you like this project, feel free to star the repository!*
